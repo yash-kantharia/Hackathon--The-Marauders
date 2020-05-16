@@ -1,5 +1,7 @@
 # Hackathon--The-Marauders
 Webhook endpoint which ETLs incoming  data to CleverTap Ingestion API.
+Webhooks at CleverTap enable you to extract data to your server on a defined segment. This data can then be used to make event or user profile updates across any CleverTap account, using API.
+This makes data transfer and upload feasible and can be achieved in real-time. 
 
 Steps:
 Design & create a working Webhook Endpoint.
