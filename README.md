@@ -12,3 +12,8 @@ The event name and the user properties to be uploaded should be present in the k
 event_name: Booking confirmed
 user_property: gold
 These values will be used in the API payload against a user profile. 
+
+
+Working POC Notes:
+Webhook Target Profile: https://eu1.dashboard.clevertap.com/W44-Z4K-K65Z/j346220/profile-view.html
+Mobile Target profile: https://eu1.dashboard.clevertap.com/W44-Z4K-K65Z/j65990/profile-view.html
